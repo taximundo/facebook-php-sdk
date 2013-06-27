@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><base href="http://www.taximundo.com/"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="content-language" content="ES" />
+<title>Taxi en Aeropuerto Arequipa Per&uacute;</title>
+<meta name="title" content="Empresa de taxi servicio dentro y fuera de la ciudad Arequipa per&uacute; Aeropuerto" />
+<Meta Name="Description" Content="Servicio de taxi dentro y fuera de la ciudad Arequipa Per&uacute;, traslados aeropuerto - hotel, privados, tours en taxis ca&ntilde;&oacute;n del colca Puno chivay cusco y m&aacute;s." />
+<Meta Name="Keywords" Content="Taxi Arequipa, taxi arequipa per&uacute;, taxis en Arequipa, taxi per&uacute;, taxi lima, taxi mundo arequipa, taxi mundo, taxi usa, taxi españa, taxi francia, per&uacute;, lima, lima per&uacute; turismo per&uacute; tranporte en per&uacute;, hoteles y hostales en arequipa, taxi vip, remisse, ejecutivo, renta car, taxi aeropuerto, colca tours, arequipa per&uacute; mundo taxi, sudamerica, tour per&uacute;  colca, titicaca, colca tour, colca trek, taxi matarani, colca canyon tours" />
+<meta name="rating" content="GENERAL" />
+<meta name="distribution" content="global" />
+<meta name="copyright" content="taximundo.com" />
+<meta name="revisit" content="7 days" />
+<meta name="robots" content="all" />
+<meta name="1.0" content="4C53928E9D2A96A2C655512D06E0461C" />
+<meta name="google-site-verification" content="XmrV_OB-nS1PgoIXX4dmu2dKRIH3wgxY6qhBDjd2uos" />
+<meta name="language" content="spanish" />
+<meta name="monitor" content="funcionando" />
+<meta property="og:title" content="Taxi Arequipa - Per&uacute; (hoteles, hostales, agencia de viajes y turismo, transporte de pasajeros, empresas)" />
+<meta property="og:description" content="empresa de profesionales y empresarios (hoteles, hostales, agencia de viajes y turismo, transporte de pasajeros, empresas, ...)" />
+<meta property="og:type" content="services" />
+<meta property="og:url" content="http://www.taximundo.com/contacto.html" />
+<meta property="og:image" content="http://www.taximundo.com/intranet/images/msntaxi.gif" />
+<meta property="og:site_name" content="taximundo.com" />
+<meta property="fb:admins" content="257786724283540" />
+
+
+<link rel="shortcut icon" type="image/x-icon" href="http://taximundo.com/en/images/favicon.gif">
+<link href="style/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="javascripts/botones.js"></script>
+<script language="javascript" type="text/javascript">
+function Fecha()
+{
+meses = new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+data = new Date();
+index = data.getMonth();
+diasemana=new Array("Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado");
+indexday = data.getDay();
+any = data.getFullYear();
+document.write(diasemana[indexday]+ "," + ' '+data.getDate()+ " de " + meses[index] + " del " + any);
+}
+</script>
+<script type="text/javascript">
+function IE(e) {
+if (navigator.appName == "Microsoft Internet Explorer" && (event.button == "2" || event.button == "3")) {
+return false;
+}
+}
+function NS(e) {
+if (document.layers || (document.getElementById && !document.all)) {
+if (e.which == "2" || e.which == "3") {
+return false;
+}
+}
+}
+document.onmousedown=IE;document.onmouseup=NS;document.oncontextmenu=new Function("return false");
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35735611-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadimages('images/link11.png','images/link22.png','images/link33.png','images/link44.png','images/link55.png','images/link66.png','images/link77.png','images/link88.png',);">
+<div id="wrapper">
+
+<!--header-->
+<div style="background:url(images/mundo.png) top no-repeat">
+    <table width="1000" border="0" cellpadding="0" cellspacing="0" >
+    		<tr><td>
+			<table><tr>
+		    <td width="278"></td>
+			  <td width="419" align="char"><p>&nbsp;</p>
+			    <p>&nbsp;</p>
+			    <p>&nbsp;</p>
+		      </td>
+				<td width="289" align="right">
+				<table width="289"align="right">
+					<tr><td width="237"  align="center"><p class="Estilo6">Siguenos en: &nbsp;&nbsp; Sel. Idiomas</p>
+					  <a href="http://www.facebook.com/taximundo/" target="_blank"><img src="http://taximundo.com/en/images/facebook.png" />&nbsp;&nbsp;</a>
+					  <a href="http://www.facebook.com/messages/taximundo/" target="_blank"><img src="http://taximundo.com/en/images/Twitter_24x24.png" />&nbsp;&nbsp;</a>
+					  <a href="http://www.youtube.com/taximundo/" target="_blank"><img src="http://taximundo.com/en/images/Youtube_24x24.png" />&nbsp;&nbsp;</a>
+					  <a href="http://www.taximundo.com/contacto.html"><img src="http://taximundo.com/en/images/espanol.png" />&nbsp;&nbsp;</a>
+					  <a href="http://www.taximundo.com/en/contact.html"><img src="http://taximundo.com/en/images/ingles.png" />&nbsp;</a></td>
+					</tr>
+					<tr>
+					<td height="20" align="center">
+					<!-- SiteSearch Google -->
+					<FORM method="get" action="http://www.google.com.pe/search" target="_blank">
+					<INPUT TYPE="text" name="q" size="25" maxlength="255" value="Buscar en Google" onClick="value=''" style="font-style:italic"/>
+					<INPUT name="Enviar"type="submit" style=" background:url(images/filter.gif);background-repeat:no-repeat; background-color:#FFFFFF;" value=""/>
+					</FORM>
+					<!-- SiteSearch Google --></td>
+					</tr>
+					<tr>
+					<td height="20" align="center" class="Estilo7">
+						<SCRIPT language="javascript" type="text/javascript">Fecha()</SCRIPT></td>
+					</tr>				
+		      </table></td>
+  			</tr></table>
+			</td></tr>
+			<tr><td><table cellpadding="0" cellspacing="0">
+			<tr>
+			<td>
+			<a href="inicio.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link1','','images/link11.png',1);"><img name="link1" src="images/link1.png" border="0"></a></td>
+			<td width="70" >
+			<a href="nosotros.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link2','','images/link22.png',1);"><img name="link2" src="images/link2.png" border="0"></a></td>
+			<td width="72" >
+			<a href="servicios.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link3','','images/link33.png',1);"><img name="link3" src="images/link3.png" border="0"></a></td>
+			<td width="77" >
+			<a href="afiliacion.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link4','','images/link44.png',1);"><img name="link4"src="images/link4.png" border="0"></a></td>
+			<td width="104" >
+			<a href="nuestraflota.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link5','','images/link55.png',1);"><img name="link5"src="images/link5.png" border="0"></a></td>
+			<td width="70" >
+			<a href="contacto.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link6','','images/link66.png',1);"><img name="link6" src="images/link6.png" border="0"></a></td>
+			<td width="70" >
+			<a href="promociones.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link8','','images/link88.png',1);"><img name="link8" src="images/link8.png" border="0"></a></td>
+			<td width="72" >
+			<a href="empresa.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link7','','images/link77.png',1);"><img name="link7" src="images/link7.png" border="0"></a></td>
+			</tr>
+			</table></td></tr>
+    </table>
+  </div>
+<!--finheader-->
+
+<!--banner flash-->
+<div align="center">
+	<table width="100%" border="0" height="400" bgcolor="#E6F2FF">
+  <tr>
+  <td width="40%"><table width="288" align="center">
+    <tr><td><p align="center"><span class="Estilo3">Comunicaci&oacute;n Instant&aacute;nea</span></p>
+    <p align="center"><img src="images/Dibujo.png" width="105" height="81" /></p>
+    <p align="left"><span class="Estilo2">Pj. Texao 126 filtro  cercado de Arequipa <br />
+    Central telef&oacute;nica : (+51-54) 200 900 <br />
+    Celular m&oacute;vil : (+51) 958 200 900<br />
+  RPM&nbsp; Movistar : &nbsp; # 359336<br />
+  RPC&nbsp; Claro&nbsp;: 958798475<br />
+  Nextel : 141*5423 <br />
+  P&aacute;g.Web : <a href="http://www.taximundo.com">www.taximundo.com</a> <br />
+      E-mail : <a href="mailto:info@taximundo.com">info@taximundo.com</a> <br />
+      MSN : <a href="mailto:transmundo@live.com">transmundo@live.com</a> <br />
+	  RUC : 20455135134 </span></p>
+    </td></tr></table>
+    </td>
+    <td width="60%" align="center"><div id="contactform"colspan="9">
+			<form id="contact-form" method="post" onSubmit="return emailCheck(this.email.value);" action="Contacto/eemail.php">
+			<table width="506">
+			  <tr><td width="452"><fieldset>
+				<legend id="leyenda" class="Estilo3">Datos Personales&raquo;</legend>
+					<div>
+						<label for="visitorname"></label>
+					</div>
+                    <div>
+                         <label for="visitorsurname"></label>
+					</div>
+                    <div>
+
+						<label for="visitormail"></label>
+                    </div>
+				<div>
+						<label for="phone"></label>
+					  <table width="429" align="left" cellspacing="0">
+                          <tr>
+                            <td width="166"><label for="label"><span style="color:#c00;">*</span><span class="Estilo2">Nombre: </span></label></td>
+<td width="250"><input type="text" name="name" id="visitorname" value="Mi Nombre" onClick="value=''" style="font-style:italic" title="Tu Nombre" /></td>
+                          </tr>
+                          <tr>
+                            <td><label for="label"><span style="color:#c00;">*</span><span class="Estilo2">Apellidos: </span></label></td>
+<td><input type="text" name="surname" id="visitorsurname" value="" onClick="value=''" style="font-style:italic" title="Tu Apellido" /></td>
+                          </tr>
+                          <tr>
+                            <td><span style="color:#c00;">*</span><span class="Estilo2">Dirección de correo:</span></td>
+                            <td><label for="visitormail"></label>
+<input type="text" name="email" id="visitormail" value="" onClick="value=''" style="font-style:italic" title="Tu dirección de correo" /></td>
+                          </tr>
+                          <tr>
+                            <td><label for="label"><span class="Estilo2">Teléfono:</span></label></td>
+                            <td><label for="phone"></label>
+<input type="text" name="phone" id="phone" class="text" value="" onClick="value=''" style="font-style:italic" title="Tu número de telefono" /></td>
+                          </tr>
+                  </table>
+				</div>
+			  </fieldset></td></tr>
+			  <tr><td height="156"><fieldset>
+				<legend class="Estilo3"> Envianos tu Mensaje&raquo;</legend>
+				<div>
+					<label for="subject"></label>
+				</div>
+					<div>
+                        <label for="notes"></label>
+                        <table width="425" align="left" cellspacing="0">
+                          <tr>
+                            <td width="165" height="24"><label for="subject"><span style="color:#c00;">*</span><span class="Estilo2">Motivo del mensaje: </span></label></td>
+                            <td width="254">
+                              <select name="sub" id="subject" title="El motivo de tu mensaje" type="text">
+                                <option>Quiero afiliarme</option>
+                                <option selected>Hacer una reserva</option>
+                                <option>Consultas en general</option>
+                                <option>Quejas y opiniones</option>
+                                <option>Reservar Un Hotel</option>
+                              </select>
+						    </td>
+                          </tr>
+                          <tr>
+                            <td><label for="label"><span style="color:#c00;">*</span><span class="Estilo2">Cuerpo del Mensaje:</span></label></td>
+                            <td><textarea name="text" id="notes" rows="4" cols="16" onKeyUp="val=this.value; if (val.length > 800) { alert('Lo siento, has sobrepasado el limite de 800 caracteres'); this.value = val.substring(0,800); }  this.form.count.value=800-parseInt(this.value.length); "></textarea></td>
+                          </tr>
+                      </table>
+                        <label for="notes">   </label>
+					</div>
+                </fieldset></td></tr>
+				<tr><td><div><table><tr><td><input name="Reset" type="Reset" class="Estilo1" id="Reset" title="Pulsa una vez para limpiar el contenido" value="Borrar" />
+						  <input name="send" type="submit" class="Estilo1" id="submit" title="Pulsa una vez para enviar el mensaje, y espera a la pantalla de confirmación" value="Enviar &raquo;" /></td></tr></table></div>
+						  </td></tr>
+			  </table>
+			</form>
+				<span style="color:#c00;">*</span><span class="Estilo1">Campos Obligatorios<script type="text/javascript" src="Contacto/var.js"></script></span>
+		</div></td>				
+	  </tr></table></div>
+<!--finbanner flash-->
+
+<!--slider-->
+<div align="center">
+
+</div>
+<!--finslider-->
+
+<!--banners-->
+<div align="center">
+	<table width="1000" border="0">
+		<tr>
+		<td width="330"><p>&nbsp;</p>
+		  <p align="center" class="Estilo3">Hoteles y Hostales en Arequipa</p>
+		  <p align="center" class="Estilo3"></p></td>
+		<td width="314"><p>&nbsp;</p>
+		  <p align="center" class="Estilo3">Lugares Turistico</p>
+		  <p align="center" class="Estilo3"></p></td>
+		<td width="318"><p>&nbsp;</p>
+		  <p align="center" class="Estilo3">Mapa de Ubicaci&oacute;n</p>
+		  <p align="center" class="Estilo3"></p></td>
+		</tr>
+		<tr>
+		<td valign="top" align="center"><p><a href="http://taximundo.com/hostales.html"><img title="Hoteles y Hostales" onmouseover="this.src='http://taximundo.com/en/images/hoteles.gif';" onmouseout="this.src='http://taximundo.com/en/images/hoteles1.jpg';" src="http://taximundo.com/en/images/hoteles1.jpg" alt="Hoteles y Hostales" width="325" height="154" /></a></p></td>		
+		<td valign="top" align="center"><p><a href="http://taximundo.com/lugar.html"><img title="Lugares Turisticos" onmouseover="this.src='http://taximundo.com/en/images/lugares.gif';" onmouseout="this.src='http://taximundo.com/en/images/lugares1.jpg';" src="http://taximundo.com/en/images/lugares1.jpg" alt="Tourist Places" width="325" height="154" /></a></p></td>
+		<td valign="top" align="center"><p><a href="http://goo.gl/maps/P7Ks4" target="_blank"><img src="http://taximundo.com/en/images/mapa.png" width="325" height="154" /></a></p>
+		</tr>
+	</table>
+</div>
+<!--finbanners-->
+<!--foot-->
+<div align="center">
+  <table align="left" width="1000" border="0">
+<tr>	<td width="44">&nbsp;<a href="inicio.html"><span class="Estilo5">Inicio</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="61"><a href="nosotros.html"><span class="Estilo5">Nosotros</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="61"><a href="servicios.html"><span class="Estilo5">Servicios</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="62"><a href="afiliacion.html"><span class="Estilo5">Afiliaci&oacute;n</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="92"><a href="nuestraflota.html"><span class="Estilo5">Nuestra flota </span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="61"><a href="contacto.html"><span class="Estilo5">Contacto</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="59"><a href="empresa.html"><span class="Estilo5">Empresa</span></a>&nbsp;<span class="Estilo1">|</span></td>
+	<td width="79"><a href="promociones.html"><span class="Estilo5">Promociones</span></a>&nbsp;</td>
+	<td width="443" align="right"><span class="Estilo2">© Copyright 2012. Taxi Mundo Todos los derechos reservados</span></td>
+</tr>
+</table>
+</div>
+<!--finfoot-->
+</div>
+</body>
+</html>
